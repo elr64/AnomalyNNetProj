@@ -25,5 +25,5 @@ This file is run in Google Colab and the code is adapted from another <a href = 
 
 Also contained in this repository are a formal writeup of the project following conference paper format and a poster used in presentation of the project. 
 
-#### A full repository included the video data, cleaned data, video frames, as well as the imported files from Tensorflow can be found on <a href = "https://drive.google.com/drive/u/1/folders/1EXZdWIvNb9m16urtD-F5DCh9Yoh-4HMX">Google Drive<a/>. 
+### A full repository included the video data, cleaned data, video frames, as well as the imported files from Tensorflow can be found on <a href = "https://drive.google.com/drive/u/1/folders/1EXZdWIvNb9m16urtD-F5DCh9Yoh-4HMX">Google Drive<a/>. 
 
